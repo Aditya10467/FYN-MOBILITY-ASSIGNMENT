@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FYN-MOBILITY-ASSIGNMENT-1/static/css/main.0c5d2839.css",
+    "main.js": "/FYN-MOBILITY-ASSIGNMENT-1/static/js/main.f7c1d851.js",
+    "static/js/453.f1ef9d50.chunk.js": "/FYN-MOBILITY-ASSIGNMENT-1/static/js/453.f1ef9d50.chunk.js",
+    "index.html": "/FYN-MOBILITY-ASSIGNMENT-1/index.html",
+    "main.0c5d2839.css.map": "/FYN-MOBILITY-ASSIGNMENT-1/static/css/main.0c5d2839.css.map",
+    "main.f7c1d851.js.map": "/FYN-MOBILITY-ASSIGNMENT-1/static/js/main.f7c1d851.js.map",
+    "453.f1ef9d50.chunk.js.map": "/FYN-MOBILITY-ASSIGNMENT-1/static/js/453.f1ef9d50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c5d2839.css",
+    "static/js/main.f7c1d851.js"
+  ]
+}
